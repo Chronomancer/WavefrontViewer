@@ -3,13 +3,13 @@ A very basic C++ Wavefront OBJ file viewer using OpenGL and SDL built with Visua
 
 Can only read triangular faces, not polygonal, and does not draw textures
 
--Based on frank253's OpenGl Glut OBJ Loader sample
+- Based on frank253's OpenGl Glut OBJ Loader sample
 -- openglsamples.sourceforge.net/projects/index.pho/blog/index/
 
--Wavefront loader is built on Ricardo Rendon Cepeda's OpenGL ES tutorial
+- Wavefront loader is built on Ricardo Rendon Cepeda's OpenGL ES tutorial
 -- raywenderlich.com/48293/
 
--Wavefront loader also borrows elements from Lazaros Karydas's objview
+- Wavefront loader also borrows elements from Lazaros Karydas's objview
 -- github.com/lKarydas/objview
 
 -When running the program, click and drag with the left mouse button to rotate the 3D model.
