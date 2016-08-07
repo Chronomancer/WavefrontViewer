@@ -1,6 +1,5 @@
 # WavefrontViewer
-Simple C++ Wavefront OBJ file viewer using OpenGL and SDL built with Visual Studio
-
+A very basic C++ Wavefront OBJ file viewer using OpenGL and SDL built with Visual Studio
 
 Can only read triangular faces, not polygonal, and does not draw textures
 
